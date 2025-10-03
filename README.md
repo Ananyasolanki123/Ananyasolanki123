@@ -60,9 +60,12 @@
 
 * 🔗 [**LinkedinAI – Content Automation Tool**](https://github.com/Ananyasolanki123/Linkedin-Post-generator)
 * 🔗 [**Style Studio – AI Fashion Assistant**](https://github.com/Ananyasolanki123/StyleStudio)
-* 🔗 [**Synapse AI – Data & Research Agent**](https://github.com/Ananyasolanki123/FinPilot)
+* 🔗 [**Synapse AI – Data & Research Agent**](https://github.com/Ananyasolanki123/AI-agent-System)
 
 ---
+## Leetcode Profile
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/a93191366/)
+
 
 ## 📊 GitHub Stats
 
