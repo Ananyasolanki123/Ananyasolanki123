@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-* 🎓 **B.Tech in CSE** @ Swami Keshvanand Institute of Technology, Jaipur (2022–2026) – CGPA: **8.88/10**
+* 🎓 **B.Tech in CSE** @ Swami Keshvanand Institute of Technology, Jaipur (2022–2026) – CGPA: **8.68/10**
 * 💻 Passionate about **AI, ML, and Data Science**
 * 💬 Ask me about: **Generative AI, NLP, REFRAG, Langextract, RAG, CNNs, and Data Analytics**
 * ⚡ Fun fact: I love both **fashion-tech 👗** and **smart city systems 🚦**
