@@ -2,7 +2,7 @@
 
 ![Banner](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be49-54e5de3d33f0.gif)
 
-🌟 **AI & Data Science Enthusiast | Generative AI Developer | Lifelong Learner**
+🌟 ** AI intern at Greenfinch Global Consulting | AI & Data Science Enthusiast | Generative AI Developer | Lifelong Learner**
 
 ---
 
@@ -10,7 +10,7 @@
 
 * 🎓 **B.Tech in CSE** @ Swami Keshvanand Institute of Technology, Jaipur (2022–2026) – CGPA: **8.88/10**
 * 💻 Passionate about **AI, ML, and Data Science**
-* 💬 Ask me about: **Generative AI, NLP, RAG, CNNs, and Data Analytics**
+* 💬 Ask me about: **Generative AI, NLP, REFRAG, Langextract, RAG, CNNs, and Data Analytics**
 * ⚡ Fun fact: I love both **fashion-tech 👗** and **smart city systems 🚦**
 
 ---
@@ -43,6 +43,12 @@
 ---
 
 ## 💼 Experience
+
+
+**🔹 AI Intern – GreenFinch Global Consulting** *(Oct 2025 – Present)*
+
+* Automated **E-grass Website's Service e-challan** process via a **Playwright** and **LLM** reducing manual workload by **100%**.
+* Accelerated **data extraction** from different kind of Property valuation Documents and Sale Deeds Documents via **Langextract** with **90% accuracy**.
 
 **🔹 Summer Intern – RUIDP (Women Internship Program)** *(June 2025 – Aug 2025)*
 
