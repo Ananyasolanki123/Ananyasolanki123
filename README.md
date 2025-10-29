@@ -1,4 +1,3 @@
-<img align="left" src="https://github.com/Ananyasolanki123/Ananyasolanki123/blob/main/6c3d3e46-38f6-4991-ac6b-b56dc46bee99.jpg?raw=true" width="150" style="border-radius:50%; margin-right:15px;" />
 
 # Hi there 👋, I'm Ananya Solanki
 
