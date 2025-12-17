@@ -66,6 +66,8 @@
 * 🔗 [**Style Studio – AI Fashion Assistant**](https://github.com/Ananyasolanki123/StyleStudio)  
 * 🔗 [**Synapse AI – Data & Research Agent**](https://github.com/Ananyasolanki123/AI-agent-System)  
 * 🔗 [**FinPilot – Trading Analytics App**](https://github.com/Ananyasolanki123/FinPilot)
+* 🔗 [**Agentic Base – Enterprise Agentic Backend**](https://github.com/Ananyasolanki123/Agentic-Base)
+
 
 ---
 
