@@ -4,6 +4,8 @@
 ![Banner](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be49-54e5de3d33f0.gif)
 
 🌟 **AI Intern @ Greenfinch Global Consulting | Generative AI & Data Science Enthusiast | ML Developer | Lifelong Learner**
+[![Resume](https://img.shields.io/badge/Resume-Download-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](YOUR_RESUME_LINK)
+
 
 <br clear="left"/>
 
