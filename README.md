@@ -4,7 +4,7 @@
 
 🌟 **Data Engineer @Wesco Anixter | Generative AI & Data Science Enthusiast | ML Developer | Lifelong Learner**
 
-<a href="https://github.com/Ananyasolanki123/Resume" download>
+<a href="https://github.com/Ananyasolanki123/Resume/blob/main/Ananya_Solanki_Resume.pdf" download>
   <img src="https://img.shields.io/badge/Resume-Download-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
 </a>
 
